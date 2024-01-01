@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1704088117 source:c:\users\dell\onedrive - alexandria university\desktop\project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"login.h"
+	"enviro.h"
+	"computer.h"
+	"load.h"
+
+1703585834 source:c:\users\dell\onedrive - alexandria university\desktop\project\login.c
+	<stdio.h>
+
+1703591816 c:\users\dell\onedrive - alexandria university\desktop\project\login.h
+
+1704070289 source:c:\users\dell\onedrive - alexandria university\desktop\project\log.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"enviro.h"
+	"computer.h"
+
+1703591816 c:\users\dell\onedrive - alexandria university\desktop\project\enviro.h
+
+1704090745 source:c:\users\dell\onedrive - alexandria university\desktop\project\enviroment.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"login.h"
+	"computer.h"
+	"load.h"
+
+1703953346 c:\users\dell\onedrive - alexandria university\desktop\project\computer.h
+
+1704070289 source:c:\users\dell\onedrive - alexandria university\desktop\project\computer.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	"login.h"
+	"enviro.h"
+	"computer.h"
+
+1704091920 source:c:\users\dell\onedrive - alexandria university\desktop\project\load.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	"login.h"
+	"enviro.h"
+	"computer.h"
+
+1704071728 c:\users\dell\onedrive - alexandria university\desktop\project\load.h
+
